@@ -1,0 +1,23 @@
+{
+  "name": "todo-assistant",
+  "description": "자료를 던져주면 일일·주간 Todo list를 자동 생성하고 진행을 추적하며, Notion MCP·Google Calendar 등록 또는 markdown 저장을 지원하는 Claude Code skill.",
+  "version": "0.1.0",
+  "author": {
+    "name": "koliaok",
+    "url": "https://github.com/koliaok"
+  },
+  "homepage": "https://github.com/koliaok/todo_recommender",
+  "repository": "https://github.com/koliaok/todo_recommender",
+  "license": "Apache-2.0",
+  "keywords": [
+    "todo",
+    "planning",
+    "task-decomposition",
+    "memory",
+    "notion-mcp",
+    "google-calendar",
+    "claude-code",
+    "claude-code-plugin",
+    "skill"
+  ]
+}

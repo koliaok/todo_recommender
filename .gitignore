@@ -1,0 +1,10 @@
+.DS_Store
+*.log
+node_modules/
+.vscode/
+.idea/
+
+# user runtime artifacts (created when skill is used)
+todos/
+memory/
+_workspace/
