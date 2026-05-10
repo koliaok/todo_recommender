@@ -9,7 +9,7 @@
       "name": "todo-assistant",
       "source": "./",
       "description": "자료(문서/URL/코드)를 분석해 일일·주간 Todo list를 생성하고, 진행 상황을 추적하며, 결과를 Notion·Google Calendar에 등록하거나 markdown 파일로 저장하는 skill.",
-      "version": "0.1.0"
+      "version": "0.1.2"
     }
   ]
 }
